@@ -485,14 +485,14 @@ const Home = () => {
         <section className="py-20 px-6 sm:px-10 lg:px-20 bg-white/5 backdrop-blur-md">
           <div className="max-w-7xl mx-auto text-center">
             <h2 className="text-4xl md:text-5xl font-extrabold text-white mb-6">
-              What's Coming in
+            What&apos;s Coming in
               <span className="block text-transparent bg-clip-text bg-gradient-to-r from-yellow-400 to-yellow-200">
                 CampusConnect 2.0
               </span>
             </h2>
             <p className="text-xl text-cyan-100 max-w-3xl mx-auto mb-12">
-              We're building the most comprehensive platform for campus life.
-              Here's what you can expect.
+              We&apos;re building the most comprehensive platform for campus life.
+              Here&apos;s what you can expect.
             </p>
 
             <div className="grid md:grid-cols-2 gap-10">
@@ -655,7 +655,7 @@ const Home = () => {
         {/* Final CTA */}
         <section className="py-20 bg-gradient-to-t from-cyan-900 to-cyan-800 backdrop-blur-sm text-center">
           <h2 className="text-4xl font-bold mb-4">
-            Don't Miss Out on the Revolution
+            Don&apos;t Miss Out on the Revolution
           </h2>
           <p className="text-xl text-yellow-100 mb-8 max-w-xl mx-auto">
             This early bird pricing is only available for the first 100
