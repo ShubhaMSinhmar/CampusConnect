@@ -23,7 +23,6 @@ import {
   PerspectiveCamera,
 } from "@react-three/drei";
 import CountUp from "react-countup";
-import HeroEnhanced from "./heroboy";
 
 function CuteRobot() {
   const robotRef = useRef(null);
